@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Calcul_montant{
+public class CalculMontant{
     public static void main(String[] args){
     int quantite, nbarticles;
     double prix, totalHT, totalTTC;
