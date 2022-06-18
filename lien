@@ -17,3 +17,6 @@ https://www.youtube.com/playlist?list=PLS--am5zK1Aa-GT7S-nfGAzmubRL68oPy    //in
 https://www.youtube.com/playlist?list=PLRhHH6sj6xkxp5qxb5g3Rlfj_8lRNK2Qi  //test
 https://download-directory.github.io/  //Download projects from github
 https://www.youtube.com/watch?v=gp_k0UVOYMw   //git
+https://www.youtube.com/watch?v=f5bdUjEIbrg   //many to many
+https://stackoverflow.com/questions/70042401/hibernate-error-message-save-the-transient-instance-before-flushing    //many to many
+https://stackoverflow.com/questions/2302802/how-to-fix-the-hibernate-object-references-an-unsaved-transient-instance-save   //many to many
